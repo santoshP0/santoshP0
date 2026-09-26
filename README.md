@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- Header banner (animated gradient wave via capsule-render) -->
-<!-- If this doesn't load, see the "Header not loading?" note at the bottom of this file for a static fallback -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=200&section=header&text=Santosh%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20React%20Native%20%26%20Native%20Modules&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -110,9 +105,6 @@ A set of TypeScript developer utilities to speed up everyday debugging and workf
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=santoshP0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshP0&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <br/>
 
