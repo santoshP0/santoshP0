@@ -123,6 +123,14 @@ TypeScript developer utilities to speed up everyday debugging and workflow tasks
 
 <br>
 
+## Support
+
+Mobile app dev building React Native apps and open-source native modules ☕ If my work saved you time, a coffee's always appreciated!
+
+<a href="https://buymeacoffee.com/santosh.pk"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
+<br><br>
+
 <div align="center">
 
 <sub>Thanks for stopping by — feel free to explore my repos or reach out.</sub>
