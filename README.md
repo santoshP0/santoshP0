@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santosh%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20React%20Native%20%26%20Native%20Modules&descAlignY=58&descSize=18" width="100%"/>
-
 <br/>
 
 <!-- Typing animation -->
