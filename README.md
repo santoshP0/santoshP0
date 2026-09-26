@@ -17,7 +17,7 @@
 
 <br>
 
-## ── About
+## About
 
 I build cross-platform apps that don't *feel* cross-platform. My focus is bridging React Native with native Android/iOS code — background services, hardware integrations (NFC, location), and in-vehicle UI systems like CarPlay.
 
@@ -28,13 +28,19 @@ I build cross-platform apps that don't *feel* cross-platform. My focus is bridgi
 
 <br>
 
-## ── GitHub Activity
+## GitHub Activity
 
-> 583+ contributions in the last year — check the calendar on my [profile overview](https://github.com/santoshP0) above this README for the live heatmap.
+<div align="center">
+
+<a href="https://github.com/santoshP0">
+<img src="https://ghchart.rshah.org/58A6FF/santoshP0" alt="santoshP0's GitHub contribution graph" width="90%"/>
+</a>
+
+</div>
 
 <br>
 
-## ── Tech Stack
+## Tech Stack
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,21 +53,25 @@ I build cross-platform apps that don't *feel* cross-platform. My focus is bridgi
 
 <br>
 
-## ── GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=santoshP0&theme=default&hide_border=false&include_all_commits=false&count_private=true)
+<img src="https://github-readme-stats.shion.dev/api?username=santoshP0&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true" width="48%" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=santoshP0&theme=shadow_green&hide_border=false)
+<br><br>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=santoshP0&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=santoshP0&theme=shadow_green&hide_border=false" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=santoshP0&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="48%" />
 
 </div>
 
 <br>
 
-## ── Featured Projects
+## Featured Projects
 
 <table>
 <tr>
