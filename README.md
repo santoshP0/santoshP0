@@ -30,15 +30,28 @@ I build cross-platform apps that don't *feel* cross-platform. My focus is bridgi
 
 ## ── Tech Stack
 
-**Cross-platform** &nbsp; `React Native` `TypeScript` `JavaScript`
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Android** &nbsp; `Kotlin` `Java`
+<br>
 
-**iOS** &nbsp; `Swift` `Objective-C`
+## ── GitHub Stats
 
-**Backend / Services** &nbsp; `Firebase`
+<div align="center">
 
-**Tooling** &nbsp; `Git` `npm/yarn`
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=santoshP0&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=santoshP0&theme=shadow_green&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=santoshP0&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
 
 <br>
 
