@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- Header banner (animated gradient wave via capsule-render) -->
+<!-- If this doesn't load, see the "Header not loading?" note at the bottom of this file for a static fallback -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=200&section=header&text=Santosh%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20React%20Native%20%26%20Native%20Modules&descAlignY=58&descSize=18" width="100%"/>
+
 <br/>
 
 <!-- Typing animation -->
@@ -91,6 +95,18 @@ A set of TypeScript developer utilities to speed up everyday debugging and workf
 
 <br/>
 
+## 📅 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/santoshP0">
+<img src="https://ghchart.rshah.org/58A6FF/santoshP0" alt="santoshP0's GitHub contribution graph" width="90%"/>
+</a>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,3 +129,35 @@ A set of TypeScript developer utilities to speed up everyday debugging and workf
 *Thanks for stopping by — feel free to explore my repos or reach out!*
 
 </div>
+
+<!--
+============================================================
+NOTES FOR YOU (delete this comment block before publishing)
+============================================================
+
+1. WHY IMAGES SOMETIMES DON'T LOAD:
+   - capsule-render.vercel.app (header) and github-readme-stats.vercel.app
+     (stats cards) are free, community-run services. They occasionally get
+     rate-limited or briefly go down because thousands of profiles use the
+     same shared instance. This is a known, recurring issue on their repos
+     — not something wrong with your file.
+   - Fix: usually just wait a few minutes and refresh the GitHub page
+     (Ctrl+Shift+R to bypass cache). If it's down for a while, you can
+     deploy your own free copy on Vercel from these repos so you're not
+     relying on the shared instance:
+       - https://github.com/kyechan99/capsule-render
+       - https://github.com/anuraghazra/github-readme-stats
+
+2. STATIC FALLBACK HEADER (no third-party dependency, always renders):
+   If you'd rather not depend on capsule-render at all, replace the header
+   <img> tag near the top with plain Markdown instead:
+
+   # 👋 Hi, I'm Santosh P
+   ### Mobile App Developer — React Native & Native Modules
+
+3. CONTRIBUTION GRAPH:
+   The green calendar under "Contribution Activity" is rendered by
+   ghchart.rshah.org, which mirrors GitHub's own contribution calendar.
+   Change the color by editing the hex code in the URL
+   (currently 58A6FF — swap for any hex without the #).
+-->
