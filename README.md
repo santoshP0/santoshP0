@@ -11,7 +11,7 @@
 
 ### `Mobile App Developer` · `React Native Specialist` · `Native Module Enthusiast`
 
-**[Portfolio](https://santoshpk.netlify.app/)** &nbsp;•&nbsp; **[LinkedIn](https://linkedin.com/in/your-linkedin)** &nbsp;•&nbsp; **[Twitter/X](https://twitter.com/your_handle)** &nbsp;•&nbsp; **[Email](mailto:your.email@example.com)**
+**[Portfolio](https://santoshpk.netlify.app/)**
 
 </div>
 
